@@ -1,3 +1,4 @@
 /data_examples*
 /data/mc_air_granular*
 __pycache__*
+*.csv
